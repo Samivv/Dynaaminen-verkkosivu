@@ -128,7 +128,6 @@ ul {
   list-style: none;
 }
 
-/* generate static style for .info that contains 8 different statistic about animal */
 .info {
   display: inline-block;
   flex-direction: column;
